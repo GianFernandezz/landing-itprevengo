@@ -639,7 +639,7 @@
                 <!-- <h3 class="h4 card-title">REPORTES DE SST</h3> -->
 
                 <p class="card-text" style="color: #072D70;">
-                  Más de 4 años de actualizacion contínua y personalizada.
+                  Más de 5 años de actualizacion contínua y personalizada.
                 </p>
 
                 <a href="#" class="btn-text">
@@ -661,7 +661,7 @@
                 <!-- <h3 class="h4 card-title">RIESGO PSICOSOCIAL</h3> -->
 
                 <p class="card-text" style="color: #072D70;">
-                  Iteprevengo Software viene ayudando en la gestión covid en las empresas y colaboradores.
+                  Nuestros módulos se adecúan a tu gestión.
                 </p>
 
                 <a href="#" class="btn-text">
@@ -731,7 +731,7 @@
             <!-- <h3 class="h4 card-title">ACTAS DE COMITÉ SST</h3> -->
 
             <p class="card-text" style="color: #072D70; margin-top: 20px;">
-              Promueve la participacíon de l'ideres y colaboradores
+              Promueve la participacíon de líderes y colaboradores
             </p>
 
             <a href="#" class="btn-text">
