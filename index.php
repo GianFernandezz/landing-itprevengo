@@ -8,11 +8,11 @@
     <!-- 
     - primary meta tags
   -->
-    <title>ItePrevengo - Comité SST</title>
-    <meta name="title" content="Software de reportes de seguridad y salud" />
+    <title>Landing ItePrevengo Software</title>
+    <meta name="title" content="Iteprevengo software" />
     <meta
       name="description"
-      content="Notifica actos y condiciones sub estándar para prevenir accidentes"
+      content="EVOLUCIONA DIGITALMENTE tu gestión de seguridad de salud en el trabajo"
     />
 
     <!-- 
@@ -200,7 +200,7 @@
 
               <h2 class="h2 section-title">
                 <strong>EVOLUCIONA DIGITALMENTE</strong> <br />
-                tu gestion de seguridad de salud en el trabajo
+                tu gestión de seguridad de salud en el trabajo
               </h2>
               <p>
                 Previene accidentes y enfermedades en el trabajo y evita sanciones y multas laborales.
