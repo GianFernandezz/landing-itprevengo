@@ -320,7 +320,7 @@ border-radius: 10px;}
 
 .nav-open-btn {
   font-size: 3.5rem;
-  color: var(--white);
+  color: var(--charcoal);
 }
 
 .header.active .nav-open-btn { color: var(--charcoal); }
@@ -372,7 +372,7 @@ border-radius: 10px;}
 
 .navbar-link {
   font-weight: var(--fw-700);
-  font-size: 25px;
+  font-size: 20px;
   padding-block: 6px;
 }
 
@@ -605,6 +605,12 @@ border-radius: 10px;}
     margin-top: 48%;
   }
 
+  /* LOGO */
+  /* .logo-iteprevengo{
+    background-color: red;
+    width: 80%;
+  } */
+
   /* Footer */
   .footer-text{
     /* background-color: red; */
@@ -767,7 +773,7 @@ border-radius: 10px;}
   }
 
   .navbar-link {
-    color: var(--white);
+    color: var(--iteazul);
     transition: var(--transition-1);
   }
 

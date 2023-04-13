@@ -55,8 +55,8 @@
 
   <header class="header" data-header>
     <div class="container">
-      <a href="#home" class="logo">
-        <img src="./assets/images/iteprevengo-software.png" width="250" height="24" alt="ItePrevengo" />
+      <a href="#home" class="logo-iteprevengo">
+        <img src="./assets/images/iteprevengo-software.png" width="70%" height="24" alt="ItePrevengo" />
       </a>
 
       <nav class="navbar" data-navbar>
@@ -72,7 +72,7 @@
 
         <ul class="navbar-list">
           <li>
-            <a href="https://www.iteprevengo.com/quienes-somos/" class="navbar-link" style="color: #000">Nosotros</a>
+            <a href="https://www.iteprevengo.com/quienes-somos/" class="navbar-link">Nosotros</a>
           </li>
         </ul>
 
