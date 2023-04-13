@@ -342,6 +342,12 @@
             <div class="swiper-pagination pag"></div>
           </div>
         </div>
+
+        <center>
+          <button class="agendar-demo">
+            <a href="https://landing-comitesst.iteprevengo.com/contacto-cita.php" class="btn btn-primary" target="_blank">Agendar una demo</a>
+          </button>
+        </center>
       </section>
 
       <!-- UN SECTION PARA COMENTARIOS CLIENTES-->
